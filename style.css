@@ -109,7 +109,7 @@ input, select {
     color: #161B16;
 }
 
-.header-section {
+.hero-section {
     background-image: url('img/header-background-img.png');
     background-repeat: no-repeat;
     width: 100%;
@@ -118,23 +118,23 @@ input, select {
     background-size: cover;
 }
 
-.header-section header {
+.hero-section header {
     display: inline-block;
     width: calc(100% - 48px);
     margin: 0 24px;
     margin-top: 32px;
 }
 
-.header-section header .logo-img {
+.hero-section header .logo-img {
     float: left;
 
 }
 
-.header-section header nav div .menu {
+.hero-section header nav div .menu {
     float: right;
 }
 
-.header-section .hero-text h1 {
+.hero-section .hero-text h1 {
     font-size: 48px;
     font-weight: 600;
     font-style: normal;
@@ -145,7 +145,7 @@ input, select {
     margin-right: 16px;
 }
 
-.header-section .hero-text h3 {
+.hero-section .hero-text h3 {
     font-size: 20px;
     font-weight: 300;
     font-style: normal;
@@ -257,7 +257,7 @@ input, select {
 
     }
 
-    .header-section .hero-text h1 {
+    .hero-section .hero-text h1 {
         font-size: 76px;
         font-weight: 600;
         font-style: normal;
