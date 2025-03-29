@@ -289,7 +289,7 @@ input, select {
 .footer-contact {
     display: flex;
     width: fit-content;
-    margin: 0 24px;
+    margin: 0 18px;
     overflow: hidden;
 }
 
